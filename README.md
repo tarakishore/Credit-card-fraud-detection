@@ -110,7 +110,7 @@ The project uses the **Credit Card Fraud Detection Dataset** from Kaggle, which 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
+   git clone https://github.com/tarakishore/Credit-card-fraud-detection.git
    cd credit-card-fraud-detection
    ```
 
@@ -473,7 +473,7 @@ This project is licensed under the MIT License.
 ```
 MIT License
 
-Copyright (c) 2025
+Copyright (c) 2026 Tara Kishore
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -509,4 +509,4 @@ For questions, issues, or contributions, please open an issue on GitHub or submi
 
 ---
 
-**Last Updated:** January 2025
+**Last Updated:** January 2026
