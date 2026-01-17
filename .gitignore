@@ -35,10 +35,12 @@ Thumbs.db
 # Environment variables
 .env
 
-# Data and models
+# Data files (large datasets excluded from GitHub)
 dataset/
 *.csv
-*.pkl
+
+# Allow trained model files
+!fraud_model.pkl
 
 # Logs
 logs/
