@@ -510,3 +510,5 @@ For questions, issues, or contributions, please open an issue on GitHub or submi
 ---
 
 **Last Updated:** January 2025
+ ! [ L i c e n s e ] ( h t t p s : / / i m g . s h i e l d s . i o / b a d g e / l i c e n s e - M I T - b l u e . s v g )  
+ 
